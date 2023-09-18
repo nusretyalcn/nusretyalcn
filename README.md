@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working on .Net Core<br>I'm currently learning Swift<br>Ask me about Swift
+I'm currently learning Swift<br>Ask me about Swift
 
 
 ## 🌐 Socials:
