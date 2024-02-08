@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
-I'm currently learning Swift<br>Ask me about Swift
 
 
 ## 🌐 Socials:
